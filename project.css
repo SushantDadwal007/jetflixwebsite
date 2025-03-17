@@ -102,14 +102,14 @@ nav.button {
 }
 
 .btn-red-sm {
-    background-color: red;
+    background-color: blue;
     color: white;
     cursor: pointer;
     /* border: none; */
 }
 
 .btn-red-sm2 {
-    background-color: red;
+    background-color: blue;
     font-size: x-large;
     padding: 15px 50px;
     color: white;
@@ -225,7 +225,7 @@ section.first.forth .secimg {
 }
 
 .faqbox:hover {
-    background-color: black;
+    background-color: green;
 }
 
 .faqbox {
