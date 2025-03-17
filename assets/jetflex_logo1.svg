@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" width="400" height="150">
+  <style>
+    .jetflex-text {
+      font-family: "Arial", sans-serif;
+      font-weight: bold;
+      font-size: 90px;
+    }
+    .jet {
+      fill: #007BFF; /* Blue */
+    }
+    .flex {
+      fill: #28A745; /* Green */
+    }
+  </style>
+  <text x="10" y="100" class="jetflex-text">
+    <tspan class="jet">Jet</tspan><tspan class="flex">flex</tspan>
+  </text>
+</svg>
